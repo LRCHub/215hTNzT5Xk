@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "神様は死んだ、って",
+  "base_artist": "斑鳩ルカ (CV.川口莉奈)",
+  "createdAt": "2026-02-19T13:45:17.733320Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "神様は死んだ、って",
+      "artist": "斑鳩ルカ (CV.川口莉奈)",
+      "has_synced": false,
+      "path": "select/pl_01_神様は死んだ、って_斑鳩ルカ_(CV.川口莉奈).txt"
+    }
+  ]
+}
